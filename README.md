@@ -3,6 +3,8 @@
 ## Links
 - [Portal Loiane](https://loiane.training/curso/angular)
 - [Playlist Youtube](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
+- [Bootstrap](https://getbootstrap.com/)
+- [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/)
 
 ## Aulas
 ### Introdução
@@ -16,8 +18,8 @@
 - [x] #008 Dicas plugins Angular para Atom e VS Code
 
 ### Data binding
-- [ ] #009 Property Binding e Interpolação
-- [ ] #010 Class e Style binding
+- [x] #009 Property Binding e Interpolação
+- [x] #010 Class e Style binding
 - [ ] #011 Event binding
 - [ ] #012 Two-way data binding
 - [ ] #013 Input properties
