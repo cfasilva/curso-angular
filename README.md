@@ -20,7 +20,7 @@
 ### Data binding
 - [x] #009 Property Binding e Interpolação
 - [x] #010 Class e Style binding
-- [ ] #011 Event binding
+- [x] #011 Event binding
 - [ ] #012 Two-way data binding
 - [ ] #013 Input properties
 - [ ] #014 Output properties
