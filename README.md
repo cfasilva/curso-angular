@@ -21,7 +21,7 @@
 - [x] #009 Property Binding e Interpolação
 - [x] #010 Class e Style binding
 - [x] #011 Event binding
-- [ ] #012 Two-way data binding
+- [x] #012 Two-way data binding
 - [ ] #013 Input properties
 - [ ] #014 Output properties
 - [ ] #015 Ciclo de vida (life-cycle) do Componente
