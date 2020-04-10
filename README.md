@@ -22,7 +22,7 @@
 - [x] #010 Class e Style binding
 - [x] #011 Event binding
 - [x] #012 Two-way data binding
-- [ ] #013 Input properties
+- [x] #013 Input properties
 - [ ] #014 Output properties
 - [ ] #015 Ciclo de vida (life-cycle) do Componente
 - [ ] #016 Acesso ao DOM e ao Template com ViewChild
