@@ -25,7 +25,7 @@
 - [x] #013 Input properties
 - [x] #014 Output properties
 - [x] #015 Ciclo de vida (life-cycle) do Componente
-- [ ] #016 Acesso ao DOM e ao Template com ViewChild
+- [x] #016 Acesso ao DOM e ao Template com ViewChild
 
 ### Angular CLI
 - [ ] #017 Angular CLI: Instalação e criação de projetos: ng new e ng serve
