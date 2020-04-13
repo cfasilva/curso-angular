@@ -5,6 +5,8 @@
 - [Playlist Youtube](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 - [Bootstrap](https://getbootstrap.com/)
 - [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/)
+- [JSLint](https://jslint.com/)
+- [Jasmine](https://jasmine.github.io/)
 
 ## Aulas
 ### Introdução
@@ -31,7 +33,7 @@
 - [x] #017 Instalação e criação de projetos: ng new e ng serve
 - [x] #018 Criando components, services: ng generate
 - [x] #019 Usando pré-processadores (Sass, Less, Stylus)
-- [ ] #020 ng lint, ng test, ng e2e
+- [x] #020 ng lint, ng test, ng e2e
 - [ ] #021 Estrutura do projeto
 - [ ] #022 Gerando build de produção
 - [ ] #023 instalando bibliotecas (bootstrap, jquery, materialize, lodash)
