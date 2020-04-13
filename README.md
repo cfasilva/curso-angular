@@ -28,13 +28,13 @@
 - [x] #016 Acesso ao DOM e ao Template com ViewChild
 
 ### Angular CLI
-- [ ] #017 Angular CLI: Instalação e criação de projetos: ng new e ng serve
-- [ ] #018 Angular CLI: Criando components, services: ng generate
-- [ ] #019 Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
-- [ ] #020 Angular CLI: ng lint, ng test, ng e2e
-- [ ] #021 Angular CLI: Estrutura do projeto
-- [ ] #022 Angular CLI: Gerando build de produção
-- [ ] #023 Angular CLI: instalando bibliotecas (bootstrap, jquery, materialize, lodash)
+- [x] #017 Instalação e criação de projetos: ng new e ng serve
+- [ ] #018 Criando components, services: ng generate
+- [ ] #019 Usando pré-processadores (Sass, Less, Stylus)
+- [ ] #020 ng lint, ng test, ng e2e
+- [ ] #021 Estrutura do projeto
+- [ ] #022 Gerando build de produção
+- [ ] #023 instalando bibliotecas (bootstrap, jquery, materialize, lodash)
 
 ### Diretivas
 - [ ] #024 Introdução e tipos de diretivas no Angular
