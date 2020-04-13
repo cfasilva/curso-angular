@@ -1,12 +1,15 @@
 # Curso Angular (v2+) do básico ao avançado
 
 ## Links
+- [Angular](https://angular.io/)
 - [Portal Loiane](https://loiane.training/curso/angular)
 - [Playlist Youtube](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 - [Bootstrap](https://getbootstrap.com/)
 - [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/)
 - [JSLint](https://jslint.com/)
 - [Jasmine](https://jasmine.github.io/)
+- [EmberCLI](https://ember-cli.com/)
+- [Protractor](https://www.protractortest.org/)
 
 ## Aulas
 ### Introdução
@@ -34,7 +37,7 @@
 - [x] #018 Criando components, services: ng generate
 - [x] #019 Usando pré-processadores (Sass, Less, Stylus)
 - [x] #020 ng lint, ng test, ng e2e
-- [ ] #021 Estrutura do projeto
+- [x] #021 Estrutura do projeto
 - [ ] #022 Gerando build de produção
 - [ ] #023 instalando bibliotecas (bootstrap, jquery, materialize, lodash)
 
