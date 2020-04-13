@@ -38,7 +38,7 @@
 - [x] #019 Usando pré-processadores (Sass, Less, Stylus)
 - [x] #020 ng lint, ng test, ng e2e
 - [x] #021 Estrutura do projeto
-- [ ] #022 Gerando build de produção
+- [x] #022 Gerando build de produção
 - [ ] #023 instalando bibliotecas (bootstrap, jquery, materialize, lodash)
 
 ### Diretivas
