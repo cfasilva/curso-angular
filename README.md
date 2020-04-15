@@ -10,6 +10,7 @@
 - [Jasmine](https://jasmine.github.io/)
 - [EmberCLI](https://ember-cli.com/)
 - [Protractor](https://www.protractortest.org/)
+- [Materialize](https://materializecss.com/)
 
 ## Aulas
 ### Introdução
@@ -39,7 +40,7 @@
 - [x] #020 ng lint, ng test, ng e2e
 - [x] #021 Estrutura do projeto
 - [x] #022 Gerando build de produção
-- [ ] #023 instalando bibliotecas (bootstrap, jquery, materialize, lodash)
+- [x] #023 instalando bibliotecas (bootstrap, jquery, materialize, lodash)
 
 ### Diretivas
 - [ ] #024 Introdução e tipos de diretivas no Angular
